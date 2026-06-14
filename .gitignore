@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Backups
+*.bak
+*.tmp
+
+# Draw.io
+.draw.io.bak
+
+# Logs
+*.log
