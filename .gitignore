@@ -11,8 +11,8 @@ Thumbs.db
 *.tmp
 
 # Draw.io
-.draw.io.bak
-.drawio:Zone.Identifier
+*.draw.io.bak
+*.drawio:Zone.Identifier
 
 # Logs
 *.log
