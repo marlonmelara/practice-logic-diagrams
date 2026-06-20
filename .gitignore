@@ -12,7 +12,7 @@ Thumbs.db
 
 # Draw.io
 *.draw.io.bak
-*.drawio:Zone.Identifier
+*.Identifier
 
 # Logs
 *.log
